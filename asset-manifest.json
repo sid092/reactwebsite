@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.48712627.chunk.css",
+    "main.js": "/reactwebsite/static/js/main.5adfe665.chunk.js",
+    "main.js.map": "/reactwebsite/static/js/main.5adfe665.chunk.js.map",
+    "runtime-main.js": "/reactwebsite/static/js/runtime-main.9b48dea8.js",
+    "runtime-main.js.map": "/reactwebsite/static/js/runtime-main.9b48dea8.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/reactwebsite/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.c7138213.chunk.js": "/reactwebsite/static/js/2.c7138213.chunk.js",
+    "static/js/2.c7138213.chunk.js.map": "/reactwebsite/static/js/2.c7138213.chunk.js.map",
+    "index.html": "/reactwebsite/index.html",
+    "precache-manifest.23e0de775400722eeea579226f326c95.js": "/reactwebsite/precache-manifest.23e0de775400722eeea579226f326c95.js",
+    "service-worker.js": "/reactwebsite/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/reactwebsite/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.48712627.chunk.css.map": "/reactwebsite/static/css/main.48712627.chunk.css.map",
+    "static/js/2.c7138213.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.c7138213.chunk.js.LICENSE.txt",
+    "static/media/AI.jpg": "/reactwebsite/static/media/AI.cda2cbc7.jpg",
+    "static/media/C.jpg": "/reactwebsite/static/media/C.7169fc2c.jpg",
+    "static/media/JavaScript.jpg": "/reactwebsite/static/media/JavaScript.157b0d78.jpg",
+    "static/media/Machine Learning.jpg": "/reactwebsite/static/media/Machine Learning.9838f9eb.jpg",
+    "static/media/Nodejs.png": "/reactwebsite/static/media/Nodejs.fed36d15.png",
+    "static/media/android.jpg": "/reactwebsite/static/media/android.34e2b194.jpg",
+    "static/media/code1.png": "/reactwebsite/static/media/code1.4603f0d1.png",
+    "static/media/office11.jpg": "/reactwebsite/static/media/office11.adc3ece1.jpg",
+    "static/media/python.png": "/reactwebsite/static/media/python.dc199ecc.png",
+    "static/media/web-development.jpg": "/reactwebsite/static/media/web-development.bc2f64ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b48dea8.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.c7138213.chunk.js",
+    "static/css/main.48712627.chunk.css",
+    "static/js/main.5adfe665.chunk.js"
+  ]
+}

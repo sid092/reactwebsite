@@ -67,5 +67,5 @@ strong{
 }
 .card-img-top{
   height: 250px;
-  width:300px;
+  width:inherit;
 }
